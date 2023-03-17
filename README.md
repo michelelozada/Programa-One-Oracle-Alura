@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/michelelozada/One-Oracle-Next-Education/blob/main/assets/logo.png">
+<img src="https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/assets/logo.png">
 <h2>Programa ONE - Oracle Next Education (2022/2023)</h2>
 <h3>•&nbsp; Tela Inicial &nbsp;•</h3>
 </div>
@@ -10,15 +10,15 @@
 Programa que estou participando durante os meses de novembro de 2022 até junho de 2023 e que está sendo promovido pela [Oracle Brasil](https://www.oracle.com/br/) em parceria com a plataforma educacional [Alura](https://www.alura.com.br/).   
 &nbsp;  
 
-O objetivo é fornecer trilhas de estudos compostas por cursos e challenges, sendo que os participantes escolhem se desejam se aprofundar nas formações subsequentes, direcionadas à especialização em front-end ou em back-end.   
+O objetivo é fornecer trilhas de estudos compostas por cursos e challenges, sendo que os participantes escolhem se desejam se aprofundar nas formações subsequentes, direcionadas à especialização em desenvolvimento front-end ou back-end.   
 &nbsp;      
 
-Em janeiro de 2023, eu escolhi seguir a especialização em front-end.
+Em janeiro de 2023, eu escolhi seguir a especialização em front-end com React.
 
 &nbsp;            
 
 ###	:books: As Trilhas do Programa
-Estão divididas em seis formações, sendo:   
+Foram desponibilizadas seis formações até o momento, sendo:   
 &nbsp;
 
 #### A. Formação Iniciante em Programação 
@@ -36,7 +36,7 @@ Estão divididas em seis formações, sendo:
   
 </details>
  
-:heavy_check_mark: *Status: concluída ([certificado de conclusão da trilha](https://drive.google.com/file/d/1JFAfiN0o7Xb1J7RvMaIagn9oPLW9hUsC/view?usp=sharing))*     
+:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/1JFAfiN0o7Xb1J7RvMaIagn9oPLW9hUsC/view?usp=sharing)*)     
 
 &nbsp;   
  
@@ -59,7 +59,7 @@ Estão divididas em seis formações, sendo:
   
  </details>
  
-:hourglass: *Status: Em andamento*  
+:hourglass: Status: Em andamento  
 
 &nbsp;  
 
@@ -75,7 +75,7 @@ Estão divididas em seis formações, sendo:
   
 </details>
 
-:heavy_check_mark: *Status: concluída ([certificado de conlusão da tilha](https://drive.google.com/file/d/1SGjl0-yDud8B2VlITtnJUjHLCtS-c9GM/view))*  
+:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/1SGjl0-yDud8B2VlITtnJUjHLCtS-c9GM/view)*)  
 
 &nbsp;   
 
@@ -91,7 +91,7 @@ Estão divididas em seis formações, sendo:
   
 </details>
 
-:heavy_check_mark: *Status: concluída ([certificado de conclusão da trilha](https://drive.google.com/file/d/13jnfA4WW_9uJl9UKMi3VUIgE9N2XmlVJ/view?usp=sharing))*    
+:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/13jnfA4WW_9uJl9UKMi3VUIgE9N2XmlVJ/view?usp=sharing)*)    
 
 &nbsp;  
 
@@ -109,4 +109,12 @@ Estão divididas em seis formações, sendo:
   
 </details>
 
-:hourglass: *Status: Em andamento*
+:hourglass: Status: Em andamento
+
+&nbsp;
+&nbsp;    
+<div align="center">
+  
+  [[Voltar ao topo]](https://github.com/michelelozada/Programa-One-Oracle-Alura#programa-one---oracle-next-education-20222023)
+  
+</div>
