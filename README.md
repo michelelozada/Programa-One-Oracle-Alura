@@ -36,7 +36,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
   
 </details>
  
-:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/1JFAfiN0o7Xb1J7RvMaIagn9oPLW9hUsC/view?usp=sharing)*)     
+:heavy_check_mark: Status: concluída (*[Certificado de conclusão da trilha](https://drive.google.com/file/d/1JFAfiN0o7Xb1J7RvMaIagn9oPLW9hUsC/view?usp=sharing)*)     
 
 &nbsp;   
  
@@ -63,7 +63,25 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;  
 
-#### C. Formação Desenvolvimento Pessoal 
+#### C. Formação React
+<details>
+   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
+  
+  &nbsp;  
+  1. React: Desenvolvendo com JavaScript (14h)  
+  1. React: Como os Componentes Funcionam (8h)  
+  1. React: Desenvolvendo em React Router com JavaScript (8h)  
+  1. React: Abstraindo seu CSS com Styled Components (6h)  
+  1. React: Function Components, uma Abordagem Moderna (12h)  
+  1. React: Hooks, Contextos e Boas Práticas (10h)  
+
+</details>
+ 
+:hourglass: Status: Em andamento 
+
+&nbsp;   
+
+#### D. Formação Desenvolvimento Pessoal 
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -75,11 +93,11 @@ Foram desponibilizadas seis formações até o momento, sendo:
   
 </details>
 
-:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/1SGjl0-yDud8B2VlITtnJUjHLCtS-c9GM/view)*)  
+:heavy_check_mark: Status: concluída (*[Certificado de conclusão da trilha](https://drive.google.com/file/d/1SGjl0-yDud8B2VlITtnJUjHLCtS-c9GM/view)*)  
 
 &nbsp;   
 
-#### D. Formação Business Agility
+#### E. Formação Business Agility
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -91,11 +109,11 @@ Foram desponibilizadas seis formações até o momento, sendo:
   
 </details>
 
-:heavy_check_mark: Status: concluída (*[certificado de conclusão da trilha](https://drive.google.com/file/d/13jnfA4WW_9uJl9UKMi3VUIgE9N2XmlVJ/view?usp=sharing)*)    
+:heavy_check_mark: Status: concluída (*[Certificado de conclusão da trilha](https://drive.google.com/file/d/13jnfA4WW_9uJl9UKMi3VUIgE9N2XmlVJ/view?usp=sharing)*)    
 
 &nbsp;  
 
-#### E. Formação Empreendedorismo
+#### F. Formação Empreendedorismo
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
