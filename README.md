@@ -48,15 +48,13 @@ Foram desponibilizadas seis formações até o momento, sendo:
   1. Flexbox: Posicione Elementos na Tela (9h)
   1. Layouts Responsivos: Trabalhando com Layouts Mobile (7h)
   1. Arquitetura CSS: Descomplicando os Problemas (8h)
-  1. CSS: Flexbox e Layouts Responsivos (6h)
-  1. JavaScript: Validando Formulários (8h)
   1. Javascript: Explorando a Linguagem (10h)
   1. Javascript na Web: Manipule o DOM com JavaScript (6h)
   1. Javascript na Web: Validação de Formulários e HTML5 (8h)
   1. Javascript: Programando a Orientação a Objetos (10h)
   1. JavaScript: Interfaces e Herança em Orientação a Objetos (12h)
   1. JS na web: CRUD com JavaScript Assíncrono (8h)
-  
+	
  </details>
  
 :hourglass: Status: Em andamento  
@@ -119,11 +117,11 @@ Foram desponibilizadas seis formações até o momento, sendo:
   
   &nbsp;  
   1. Lean Startup: Primeiros Passos da sua Startup Enxuta (5h)
-  1. Empreendedorismo: da Ideia ao Plano de Negócios (8h) 
+  1. Empreendedorismo: Da Ideia ao Plano de Negócios (8h) 
   1. Empreendedorismo: Abrindo sua Empresa do Jeito Certo (10h)
-  1. Pitch entrevistas: Faça Apresentações de Impacto (6h)  
-  1. Business Model Canvas parte I: um Modelo Poderoso para o seu Negócio (8h)
-  1. Business Model Canvas parte II: Avance no seu Modelo de Negócios (8h)
+  1. Pitch Entrevistas: Faça Apresentações de Impacto (6h)  
+  1. Business Model Canvas Parte I: um Modelo Poderoso para o seu Negócio (8h)
+  1. Business Model Canvas Parte II: Avance no seu Modelo de Negócios (8h)
   
 </details>
 
