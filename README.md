@@ -9,22 +9,22 @@
 &nbsp;
 &nbsp;
 
-### :pencil: Descrição
+### :pencil: Descrição  
 Programa que estou participando durante os meses de novembro de 2022 até junho de 2023 e que está sendo promovido pela [Oracle Brasil](https://www.oracle.com/br/) em parceria com a plataforma educacional [Alura](https://www.alura.com.br/).   
 &nbsp;  
 
-O objetivo é fornecer trilhas de estudos compostas por cursos e challenges, sendo que os participantes escolhem se desejam se aprofundar nas formações subsequentes, direcionadas à especialização em desenvolvimento front-end ou back-end.   
+O objetivo é fornecer trilhas de estudos, sendo que os participantes escolhem se desejam se aprofundar nas formações subsequentes, direcionadas à especialização em desenvolvimento front-end ou back-end.   
 &nbsp;      
 
 Em janeiro de 2023, eu escolhi seguir a especialização em front-end com React.
 
 &nbsp;            
 
-###	:books: Trilhas do Programa
-Foram desponibilizadas seis formações até o momento, sendo:   
+###	:books: Trilhas do Programa  
+Foram desponibilizadas as seguintes formações até o momento, sendo:   
 &nbsp;
 
-#### A. Formação Iniciante em Programação 
+#### A. Formação Iniciante em Programação  
 <details>
   <summary>Clique aqui para ver a relação completa dos cursos</summary>
   
@@ -43,7 +43,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;   
  
-#### B. Formação Front-End + Formação Complementar
+#### B. Formação Front-End + Formação Complementar  
 <details>
    <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -66,7 +66,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;  
 
-#### C. Formação React
+#### C. Formação React  
 <details>
    <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -84,7 +84,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;   
 
-#### D. Formação Desenvolvimento Pessoal 
+#### D. Formação Desenvolvimento Pessoal  
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -100,7 +100,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;   
 
-#### E. Formação Business Agility
+#### E. Formação Business Agility  
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -116,7 +116,7 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;  
 
-#### F. Formação Empreendedorismo
+#### F. Formação Empreendedorismo  
 <details>
   <summary>Clique aqui para ver a relação completa  dos cursos</summary>
   
@@ -134,18 +134,19 @@ Foram desponibilizadas seis formações até o momento, sendo:
 
 &nbsp;
 
-###	:file_folder: Projetos dos Cursos
+###	:file_folder: Projetos dos Cursos  
 
-| Curso  | Instrutor 
-|:--- | :---
-| Arquitetura CSS: Descomplicando os Problemas | 
-| Layouts Responsivos: Trabalhando com Layouts Mobile  | 
-| Javascript na Web: Validação de Formulários e HTML5 | 
-| Javascript na Web: Manipule o DOM com JavaScript | 
-| JS na web: CRUD com JavaScript Assíncrono | 
-| CSS: Flexbox e Layouts Responsivos | 
-| Flexbox: Posicione Elementos na Tela | 
-|JavaScript: Validando Formulários | 
+| Link    | Curso
+| :--:    | :---
+| :file_folder: | Arquitetura CSS: Descomplicando os Problemas | 
+| :file_folder: | CSS: Flexbox e Layouts Responsivos | 
+| :file_folder: | Flexbox: Posicione Elementos na Tela | 
+| :file_folder: | Javascript na Web: Validação de Formulários e HTML5 | 
+| :file_folder: | Javascript na Web: Manipule o DOM com JavaScript | 
+| :file_folder: | JavaScript: Validando Formulários | 
+| :file_folder: | JS na web: CRUD com JavaScript Assíncrono | 
+| :file_folder: | Layouts Responsivos: Trabalhando com Layouts Mobile  | 
+| :file_folder: | React: Desenvolvendo com JavaScript | 
 
 &nbsp;    
 <div align="center">
