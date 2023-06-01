@@ -80,7 +80,7 @@ Foram desponibilizadas as seguintes formações até o momento, sendo:
 
 </details>
  
-:hourglass: Status: Em andamento 
+:heavy_check_mark: Status: concluída (*[Certificado de conclusão da trilha](https://drive.google.com/file/d/125q4Q_r4Q0bXM_kWxkqoRJUBQ8ALuGTS/view?usp=sharing)*)  
 
 &nbsp;   
 
@@ -134,7 +134,9 @@ Foram desponibilizadas as seguintes formações até o momento, sendo:
 
 &nbsp;
 
-###	:file_folder: Projetos dos Cursos  
+https://drive.google.com/file/d/1zONV6Yqddmdv-2zktjlsNZTN3GMi9M94/view?usp=sharing 
+
+###	:card_file_box: Projetos dos Cursos  
 
 | Link    | Curso
 | :--:    | :---
@@ -146,6 +148,7 @@ Foram desponibilizadas as seguintes formações até o momento, sendo:
 | :file_folder: | JavaScript: Validando Formulários | 
 | :file_folder: | JS na web: CRUD com JavaScript Assíncrono | 
 | :file_folder: | Layouts Responsivos: Trabalhando com Layouts Mobile  | 
+| :file_folder: | React: Como os Componentes Funcionam |
 | :file_folder: | React: Desenvolvendo com JavaScript | 
 
 &nbsp;    
