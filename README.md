@@ -10,18 +10,21 @@
 &nbsp;
 
 ### :pencil: Descrição  
-Programa que estou participando durante os meses de novembro de 2022 até junho de 2023 e que está sendo promovido pela [Oracle Brasil](https://www.oracle.com/br/) em parceria com a plataforma educacional [Alura](https://www.alura.com.br/).   
+Programa que participei durante os meses de novembro de 2022 até junho de 2023 (Turma 4) e que foi promovido pela [Oracle Brasil](https://www.oracle.com/br/) em parceria com a plataforma educacional [Alura](https://www.alura.com.br/).   
 &nbsp;  
 
-O objetivo é fornecer trilhas de estudos, sendo que os participantes escolhem se desejam se aprofundar nas formações subsequentes, direcionadas à especialização em desenvolvimento front-end ou back-end.   
+O objetivo foi fornecer trilhas de estudos para que que os participantes decidissem se aprofundar nas formações subsequentes, direcionadas à especialização em desenvolvimento front-end ou back-end.   
 &nbsp;      
 
-Em janeiro de 2023, eu escolhi seguir a especialização em front-end com React.
+Em janeiro de 2023, eu escolhi seguir a especialização em front-end com React, sendo que [este é o certificado de conclusão programa](https://drive.google.com/file/d/1zONV6Yqddmdv-2zktjlsNZTN3GMi9M94/view?usp=sharing ).  
+&nbsp;   
+
+O que posso dizer é que foi uma experiência muito importante para mim neste momento dos meus estudos e que - graças ao React e eu termos sido formalmente apresentados - abriu meus olhos para várias possibilidades do front-end que antes eu não enxergava!
 
 &nbsp;            
 
 ###	:books: Trilhas do Programa  
-Foram desponibilizadas as seguintes formações até o momento, sendo:   
+Durante todo o programa foram desponibilizadas as seguintes formações:   
 &nbsp;
 
 #### A. Formação Iniciante em Programação  
@@ -134,26 +137,30 @@ Foram desponibilizadas as seguintes formações até o momento, sendo:
 
 &nbsp;
 
-https://drive.google.com/file/d/1zONV6Yqddmdv-2zktjlsNZTN3GMi9M94/view?usp=sharing 
+
 
 ###	:card_file_box: Projetos dos Cursos  
 
 | Link    | Curso
 | :--:    | :---
-| :file_folder: | Arquitetura CSS: Descomplicando os Problemas | 
-| :file_folder: | CSS: Flexbox e Layouts Responsivos | 
-| :file_folder: | Flexbox: Posicione Elementos na Tela | 
-| :file_folder: | Javascript na Web: Validação de Formulários e HTML5 | 
-| :file_folder: | Javascript na Web: Manipule o DOM com JavaScript | 
-| :file_folder: | JavaScript: Validando Formulários | 
-| :file_folder: | JS na web: CRUD com JavaScript Assíncrono | 
-| :file_folder: | Layouts Responsivos: Trabalhando com Layouts Mobile  | 
-| :file_folder: | React: Como os Componentes Funcionam |
-| :file_folder: | React: Desenvolvendo com JavaScript | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-Arquitetura-CSS-Descomplicando-os-Problemas)| Arquitetura CSS: Descomplicando os Problemas | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-CSS-Flexbox-e-Layouts-Responsivos)| CSS: Flexbox e Layouts Responsivos | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-Flexbox-Posicione-Elementos-na-Tela)| Flexbox: Posicione Elementos na Tela | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-Javascript-na-Web-Manipule-o-DOM-com-JavaScript)| Javascript na Web: Manipule o DOM com JavaScript
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-JavaScript-na-Web-Validação-de-Formularios-e-HTML5)| Javascript na Web: Validação de Formulários e HTML5 | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-JavaScript-Validando-Formularios)| JavaScript: Validando Formulários | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-JS-na-Web-CRUD-com-JavaScript-Assincrono)| JS na web: CRUD com JavaScript Assíncrono | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-Layouts-Responsivos-Trabalhando-com-Layouts-Mobile)| Layouts Responsivos: Trabalhando com Layouts Mobile  | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Abstraindo-seu-CSS-com-Styled-Components)| React: Abstraindo seu CSS com Styled Components |
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Como-os-Componentes-Funcionam)| React: Como os Componentes Funcionam |
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Desenvolvendo-com-JavaScript)| React: Desenvolvendo com JavaScript | 
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Desenvolvendo-em-React-Router-com-JavaScript) | React: Desenvolvendo em React Router com JavaScript |
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Function-Components-uma-Abordagem-Moderna) | React: Function Components, uma Abordagem Moderna |
+| [:file_folder:](https://github.com/michelelozada/Programa-One-Oracle-Alura/blob/main/projetos/Curso-React-Hooks-Contextos-e-Boas-Praticas) | React: Hooks, Contextos e Boas Práticas |
 
 &nbsp;    
 <div align="center">
   
-  [[Voltar ao topo]](https://github.com/michelelozada/Programa-One-Oracle-Alura#programa-one---oracle-next-education-20222023)
+  [[Voltar ao topo](#programa-one---oracle-next-education-20222023)]
   
 </div>
