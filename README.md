@@ -60,10 +60,10 @@ Durante todo o programa foram desponibilizadas as seguintes formações:
   1. Javascript na Web: Validação de Formulários e HTML5 (8h)
   1. Javascript: Programando a Orientação a Objetos (10h)
   1. JavaScript: Interfaces e Herança em Orientação a Objetos (12h)
-  1. JS na web: CRUD com JavaScript Assíncrono (8h)
-	1. CSS: Flexbox e Layouts Responsivos (6h)
-	1. JavaScript: Validando Formulários (8h)
-	
+  1. JS na web: CRUD com JavaScript Assíncrono (8h)  
+  1. CSS: Flexbox e Layouts Responsivos (6h)
+  1. JavaScript: Validando Formulários (8h)
+		
  </details>
  
 :heavy_check_mark: Status: concluída (*[Certificado de conclusão da trilha](https://drive.google.com/file/d/1Y_y3FE0jz2IoB4G2svb3iXsfmmyIJElD/view?usp=sharing)*)    
