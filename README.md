@@ -4,7 +4,8 @@
 
 [Descrição](#pencil-descricao) &nbsp;•&nbsp; 
 [Trilhas do Programa](#books-trilhas-do-programa) &nbsp;•&nbsp; 
-[Projetos dos Cursos](#file_folder-projetos-dos-cursos)
+[Projetos dos Cursos](#card_file_box-projetos-dos-cursos)
+
 </div>
 &nbsp;
 &nbsp;
